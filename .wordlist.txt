@@ -15,6 +15,7 @@ IOMEM
 api
 config
 dev
+eid
 distclean
 flashmemorysummit
 github
@@ -37,3 +38,8 @@ symvers
 txt
 userspace
 www
+
+DMA
+IOMEM
+iomem
+iomemX
